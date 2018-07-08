@@ -75,7 +75,16 @@ git clone https://github.com/rapid7/metasploit-framework.git
 git clone https://github.com/RetireJS/retire.js.git
 git clone https://github.com/vulnersCom/burp-vulners-scanner.git
 ```
-
+### Firefox Plugins
+https://addons.mozilla.org/pt-BR/firefox/addon/foxyproxy-standard/
+https://addons.mozilla.org/pt-BR/firefox/addon/offsec-exploit-db-search/
+https://addons.mozilla.org/pt-BR/firefox/addon/firebug/
+https://addons.mozilla.org/pt-BR/firefox/addon/hackbar/
+https://addons.mozilla.org/en-US/firefox/user/websecurify/
+https://addons.mozilla.org/en-US/firefox/addon/a-cookie-manager/
+https://addons.mozilla.org/pt-BR/firefox/addon/xss-me/
+https://addons.mozilla.org/pt-BR/firefox/addon/wappalyzer/
+https://addons.mozilla.org/pt-BR/firefox/addon/builtwith/
 #### Requirements
 - NET Framework 4.5.2
 - Python 3.4
