@@ -1,6 +1,7 @@
 # IABE WEB BugBounty Framework
+![IABE!](iabe.png)
 ### Tool Description
-What this tool really is? Basically, it's the junction of all knowledge that I gathered from more than 40 DefCon talks and 5 books of web pentesting. There's guides for every tool that you could imagine, and I assure that you don't know 50% of them. There are more than 150 web vulnerabilities detailed, PoC's, how-to, where to find, etc.
+What this tool really is? Basically, it's the junction of all knowledge that I gathered from more than 40 DefCon talks and 5 books of web pentesting. There's guides for every tool that you could imagine, and I assure that you don't know 100% of them. There are more than 150 web vulnerabilities detailed, PoC's, how-to, where to find, etc.
 
 ### Tool Purpose
 It was mainly created to help you organize the data, to-do tests, think outside of the box, and ensure that you tested every single layer with every single exploit/scanner/thinking outside of the box. Modules for data organization, check-marks for tested vulnerabilities, check-marks for used tools, different approachs (attack methods) to website PenTesting with different tools, etc.
@@ -14,4 +15,5 @@ Finishing, I tried to put all web pentesting / BugBounty stuff in one place, too
 #### Requirements
 - NET Framework 4.5.2
 - Python 3.4 >
-
+### BETA
+This is on beta test and should not be used for real penetration testing.
