@@ -17,7 +17,7 @@ mkdir IABE
 cd IABE
 git clone https://github.com/cardangi/IABE-BugBounty-Framework.git
 ```
-### Installation Guide (with most of the dependencies included)
+### Installation Guide (basic dependencies included)
 ```
 mkdir IABE
 cd IABE
