@@ -21,13 +21,13 @@ git clone https://github.com/cardangi/IABE-BugBounty-Framework.git
 ```
 mkdir IABE
 cd IABE
+git clone https://github.com/cardangi/IABE-BugBounty-Framework.git
 git clone https://github.com/danielmiessler/SecLists.git
 git clone https://github.com/1N3/IntruderPayloads.git
 git clone https://github.com/swisskyrepo/PayloadsAllTheThings.git
 git clone https://github.com/guelfoweb/knock.git
 git clone https://github.com/nahamsec/HostileSubBruteforcer.git
 git clone https://github.com/FortyNorthSecurity/EyeWitness.git
-git clone https://github.com/cardangi/IABE-BugBounty-Framework.git
 git clone https://github.com/gwen001/s3-buckets-finder.git
 git clone https://github.com/1N3/Sn1per.git
 git clone https://github.com/laramies/theHarvester.git
